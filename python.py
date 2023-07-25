@@ -13,7 +13,7 @@ def like(dictionary):
 		dictionary["likes"]=dictionary["likes"]+1
 	return dictionary
 def add_comment(dictionary,username,comment_text):
-	dictionary["comments"]["useername"]=comment_text
+	dictionary["comments"]["CharlesD"]=comment_text
 	return dictionary
 print("now for some fun hehehe")
 for i in range(500):
